@@ -1,0 +1,9 @@
+.done {
+  background-color: red;
+  color: blue;
+}
+
+.undone {
+  background-color: pink;
+  color: black;
+}
